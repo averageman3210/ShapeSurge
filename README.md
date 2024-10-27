@@ -3,7 +3,7 @@
 **ShapeSurge** is an exciting block-puzzle game where players must strategically place shapes into a grid, clearing lines and aiming for high scores. The game challenges players with a variety of shape combinations.
 
 ## Features
-- **d-free! No In-App purchases! Buy it Once!**
+- **Ad-free! No In-App purchases! Buy it Once!**
 - **Dynamic Puzzle Gameplay**
 - **Intuitive Controls**
 - **Score Tracking**
