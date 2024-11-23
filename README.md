@@ -15,6 +15,13 @@
 - Special shapes appear to add complexity and rewards.
 - Clear as many rows and columns as possible before running out of space.
 
+## Scoring
+- 1 point for each block placed
+- 10 points for each row or column of fireflies released
+- Bonus multiplier for consecutive rounds (groups of 3 blocks) with a release
+- 2^n multiplier for consecutive blocks with a release
+- 10^n muliplier for number of rows and columns released with one block
+
 ## Privacy Policy
 We do not collect or use any personal data in **ShapeSurge**. You can view our full privacy policy [here](link-to-privacy-policy).
 
