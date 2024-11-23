@@ -1,18 +1,14 @@
 # ShapeSurge
 
-**ShapeSurge** is an exciting block-puzzle game where players must strategically place shapes into a grid, clearing lines and aiming for high scores. The game challenges players with a variety of shape combinations.
+Fireflies are trapped in glass blocks. Will you help save them?
+- Fill rows or columns with blocks to break the glass and release the fireflies.
+- Clear as many rows and columns as possible before running out of space.
 
 ## Features
 - **Ad-free! No In-App purchases! Buy it Once!**
 - **Beautiful and Relaxing Visuals**
 - **Huge Scores**
 - **Special Pieces**
-
-## Gameplay
-- Players are presented with a grid and a set of shapes.
-- Fill rows or columns with blocks to break the glass an release fireflies.
-- Special shapes appear to add complexity and rewards.
-- Clear as many rows and columns as possible before running out of space.
 
 ## Scoring
 - 1 point for each block placed
