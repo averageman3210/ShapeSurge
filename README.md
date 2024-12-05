@@ -1,4 +1,4 @@
-# ShapeSurge
+# Block-a-boom: Where Blocks Go Kaboom!
 
 Fireflies are trapped in glass blocks. Will you help save them?
 - Fill rows or columns with blocks to break the glass and release the fireflies.
